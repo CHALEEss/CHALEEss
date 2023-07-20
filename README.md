@@ -9,8 +9,6 @@ I'm a beginner front-end developer.
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [lifexpic2019@gmail.com](mailto:lifexpic2019@gmail.com)
 *   🧠  I'm learning React.js / LUA
-*
-*
 *   <a href="https://www.github.com/CHALEEs" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/CHALEEs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Ssadb0i" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Ssadb0i?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
